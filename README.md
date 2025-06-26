@@ -39,5 +39,5 @@ After feedback from **Himanshu Vyas**, I explored more advanced architectures:
 - 🖥️ **GTKWave** – Waveform simulation
 - 📚 **Vivado** / **ModelSim** (optional) – Simulation & synthesis (for hardware readiness)
 
-## 📁 Directory Structure
+
 
